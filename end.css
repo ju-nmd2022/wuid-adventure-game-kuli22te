@@ -1,0 +1,40 @@
+body {
+    background-color: #252020;
+}
+
+h2 {
+    color: antiquewhite;
+    margin-left: 35%;
+}
+
+#img2 {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 35%;
+    display: none;
+
+}
+
+
+#img3 {
+    position: absolute;
+    margin-top: 20%;
+    margin-left: 35%;
+    display: none;
+    
+}
+
+
+#img4 {
+    position: absolute;
+    margin-top: 30%;
+    margin-left: 35%;
+    display: none;
+    
+}
+
+#flip {
+    position: absolute;
+    top: 18%;
+    left: 47%;
+}

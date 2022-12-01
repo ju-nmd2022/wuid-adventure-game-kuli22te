@@ -1,0 +1,88 @@
+body {
+    background-color: #252020;
+}
+
+#img2 {
+    position: absolute;
+    width: 150px;
+    height: 200px;
+    padding-top: 27%;
+    padding-right: 70%;
+    transform: scaleX(-1);
+}
+
+#img3 {
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    padding-top: 30%;
+    padding-left: 20%;
+}
+
+#hotdog {
+    position: absolute;
+    width: 35px;
+    height: 20px;
+    padding-top: 30%;
+    padding-left: 25%;
+}
+
+#corona{
+    position: absolute;
+    width: 30px;
+    height: 50px;
+    padding-top: 28.5%;
+    padding-left: 23%;
+}
+
+#img1 {
+    position: absolute;
+    padding-left: 17%;
+    padding-top: 4%;
+    width: 1000px;
+    height: 600px;
+}
+
+#hotdog2 {
+    position: absolute;
+    width: 35px;
+    height: 20px;
+    top: 63%;
+    padding-left: 14%;
+    display: none;
+}
+
+#corona2 {
+    position: absolute;
+    width: 30px;
+    height: 50px;
+    top: 70%;
+    padding-left: 14%;
+    display: none;
+    
+}
+
+#axe {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    padding-top: 38.5%;
+    padding-left: 12%;
+}
+
+#arrowright {
+    position: absolute;
+    width: 90px;
+    height: 70px;
+    top: 80%;
+    left: 90%;
+}
+
+#arrowleft {
+    position: absolute;
+    width: 90px;
+    height: 70px;
+    transform: scaleX(-1);
+    top: 80%;
+    left: 4%;
+}

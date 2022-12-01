@@ -1,0 +1,53 @@
+body {
+    background-color: #252020;
+    }
+
+    #img2 {
+        position: absolute;
+        width: 150px;
+        height: 200px;
+        padding-top: 27%;
+        padding-left: 25%;
+    }
+    
+    #img3 {
+        position: absolute;
+        width: 170px;
+        height: 150px;
+        padding-top: 30%;
+        padding-left: 55%;
+       
+    }
+
+    #img4 {
+        position: absolute;
+        width: 65px;
+        height: 65px;
+        padding-top: 31%;
+        padding-left: 57%;
+    }
+    
+    #img1 {
+        position: absolute;
+        padding-left: 17%;
+        padding-top: 4%;
+        width: 1000px;
+        height: 600px;
+    }
+
+    #img5 {
+        position: absolute;
+        display: none;
+        width: 65px;
+        height: 65px;
+        padding-top: 38.5%;
+        padding-left: 12%;
+    }
+    
+    #img6 {
+        position: absolute;
+        width: 90px;
+        height: 70px;
+        top: 80%;
+        left: 90%;
+    }

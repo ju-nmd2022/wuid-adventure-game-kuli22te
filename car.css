@@ -1,0 +1,89 @@
+body {
+    background-color: #252020;
+}
+
+
+
+#background {
+    position: absolute;
+    padding-left: 17%;
+    padding-top: 4%;
+    width: 1000px;
+    height: 600px;
+}
+
+#arrowright {
+    position: absolute;
+    width: 90px;
+    height: 70px;
+    top: 80%;
+    left: 90%;
+}
+
+#arrowleft {
+    position: absolute;
+    width: 90px;
+    height: 70px;
+    transform: scaleX(-1);
+    top: 80%;
+    left: 4%;
+}
+
+#car {
+    position: absolute;
+    width: 400px;
+    height:200px;
+    top: 50%;
+    left: 55%;
+}
+
+#car2 {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    top: 20%;
+    left: 10%;
+    display: none;
+}
+
+#fuel {
+    position: absolute;
+    width: 60px;
+    left: 12.5%;
+    top: 45%;
+}
+
+#hotdog {
+    position: absolute;
+    width: 35px;
+    height: 20px;
+    top: 63%;
+    left: 14%;
+    
+}
+
+#corona {
+    position: absolute;
+    width: 30px;
+    height: 50px;
+    top: 70%;
+    left: 14%;
+    
+    
+}
+
+#axe {
+    position: absolute;
+    width: 65px;
+    height: 65px;
+    top: 80%;
+    left: 12%;
+}
+
+#key {
+    position: absolute;
+    width: 50px;
+    height: 80px;
+    top: 30%;
+    left: 12.5%;
+}

@@ -1,0 +1,29 @@
+body {
+    background-color: #252020;
+}
+
+h2 {
+    color: antiquewhite;
+    margin-left: 35%;
+}
+
+
+#background {
+    position: absolute;
+    padding-left: 17%;
+    padding-top: 4%;
+    width: 1000px;
+    height: 600px;
+}
+
+
+h1 {
+    position: absolute;
+    color: antiquewhite;
+    margin-left: 35% ;
+}
+
+#btn {
+    margin-top: 45%;
+    margin-left: 48%;
+}
